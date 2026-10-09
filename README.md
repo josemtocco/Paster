@@ -4,6 +4,7 @@ Lista M3U gerada automaticamente a partir de [cxtv.com.br/tv/paises/tvs-brasil](
 
 ## Características
 
+- **Busca TODOS os canais** (usa o endpoint de paginação do "Carregar Mais")
 - Atualização automática a cada **6 horas** (GitHub Actions)
 - Mantém apenas canais **ativos**
 - Remove canais offline
@@ -22,15 +23,15 @@ Lista M3U gerada automaticamente a partir de [cxtv.com.br/tv/paises/tvs-brasil](
 ## Deploy no GitHub
 
 1. Crie um repositório novo (ex: `cxtv-brasil-m3u`)
-2. Faça upload de todos os arquivos desta pasta (mantenha a estrutura)
-3. Vá em **Settings → Actions → General** e habilite “Read and write permissions”
-4. Vá em **Actions** e rode o workflow manualmente a primeira vez
+2. Faça upload de **todos** os arquivos desta pasta (mantenha a pasta `.github`)
+3. Vá em **Settings → Actions → General** e habilite **Read and write permissions**
+4. Vá em **Actions** e rode o workflow manualmente a primeira vez (`workflow_dispatch`)
 5. Depois disso ele atualiza sozinho a cada 6 horas
 
 ## Limitação importante
 
-O site usa Cloudflare. O scraper usa `cloudscraper`, mas em alguns momentos o desafio pode falhar.  
-Se a lista ficar vazia, rode o workflow manualmente ou ajuste o script.
+O site usa Cloudflare. O scraper usa `cloudscraper`. Em alguns momentos o desafio pode falhar.  
+Se a lista ficar vazia, rode o workflow manualmente.
 
 ## Licença
 

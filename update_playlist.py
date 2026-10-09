@@ -4,11 +4,13 @@ Gerador de lista M3U otimizada para SS IPTV
 Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
 Atualiza a cada 6h via GitHub Actions
 Mantém canais ativos, remove inativos e adiciona novos
+Busca TODOS os canais via endpoint de paginação (Carregar Mais)
 """
 
 import json
 import os
 import re
+import time
 import concurrent.futures
 from datetime import datetime, timezone
 from urllib.parse import urljoin
@@ -19,17 +21,18 @@ from bs4 import BeautifulSoup
 # ==================== CONFIGURAÇÕES ====================
 BASE_URL = "https://www.cxtv.com.br"
 LIST_URL = f"{BASE_URL}/tv/paises/tvs-brasil"
+# Endpoint real do "Carregar Mais"
+LOAD_URL = f"{BASE_URL}/data/tv_paises_list_load.php"
 STATE_FILE = "channels_state.json"
 OUTPUT_M3U = "brasil.m3u"
-MAX_WORKERS = 12
-TIMEOUT = 12
+MAX_WORKERS = 10
+TIMEOUT = 15
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/120.0.0.0 Safari/537.36"
 )
 
-# Categorias oficiais do site (group-title do SS IPTV)
 CATEGORIES_MAP = {
     "filmes": "Filmes",
     "seriados": "Seriados",
@@ -69,7 +72,11 @@ CATEGORIES_MAP = {
 scraper = cloudscraper.create_scraper(
     browser={"browser": "chrome", "platform": "windows", "mobile": False}
 )
-scraper.headers.update({"User-Agent": USER_AGENT})
+scraper.headers.update({
+    "User-Agent": USER_AGENT,
+    "Referer": LIST_URL,
+    "X-Requested-With": "XMLHttpRequest",
+})
 
 
 def normalize_category(raw: str) -> str:
@@ -86,12 +93,11 @@ def normalize_category(raw: str) -> str:
 
 
 def is_stream_alive(url: str) -> bool:
-    """Verifica se o stream responde (HEAD ou GET parcial)."""
     if not url or not url.startswith("http"):
         return False
     try:
         r = scraper.head(url, timeout=TIMEOUT, allow_redirects=True)
-        if r.status_code in (200, 206, 302, 301):
+        if r.status_code in (200, 206, 301, 302):
             return True
         r = scraper.get(url, timeout=TIMEOUT, stream=True, allow_redirects=True)
         return r.status_code in (200, 206)
@@ -100,7 +106,6 @@ def is_stream_alive(url: str) -> bool:
 
 
 def extract_stream_from_channel_page(channel_url: str) -> str | None:
-    """Tenta extrair a URL do stream (m3u8/HLS) da página do canal."""
     try:
         r = scraper.get(channel_url, timeout=TIMEOUT)
         if r.status_code != 200:
@@ -113,6 +118,7 @@ def extract_stream_from_channel_page(channel_url: str) -> str | None:
             r'file\s*:\s*["\'](https?://[^"\']+)["\']',
             r'src\s*=\s*["\'](https?://[^"\']+\.m3u8[^"\']*)["\']',
             r'hlsUrl\s*[:=]\s*["\'](https?://[^"\']+)["\']',
+            r'data-src\s*=\s*["\'](https?://[^"\']+\.m3u8[^"\']*)["\']',
         ]
         for pat in patterns:
             m = re.search(pat, html, re.I)
@@ -122,7 +128,7 @@ def extract_stream_from_channel_page(channel_url: str) -> str | None:
         soup = BeautifulSoup(html, "lxml")
         for iframe in soup.find_all("iframe"):
             src = iframe.get("src") or ""
-            if "player" in src or "embed" in src:
+            if "player" in src.lower() or "embed" in src.lower():
                 if src.startswith("//"):
                     src = "https:" + src
                 elif src.startswith("/"):
@@ -140,46 +146,40 @@ def extract_stream_from_channel_page(channel_url: str) -> str | None:
         return None
 
 
-def scrape_channel_list() -> list[dict]:
-    """Coleta a lista de canais da página principal."""
+def parse_channel_cards(html: str) -> list[dict]:
+    """Extrai canais do HTML parcial retornado pelo endpoint de load."""
     channels = []
-    seen_slugs = set()
+    soup = BeautifulSoup(html, "lxml")
 
-    print("[*] Acessando lista de canais...")
-    try:
-        r = scraper.get(LIST_URL, timeout=20)
-        if r.status_code != 200:
-            print(f"[!] Erro HTTP {r.status_code} na lista principal")
-            return []
-    except Exception as e:
-        print(f"[!] Falha ao acessar lista: {e}")
-        return []
-
-    soup = BeautifulSoup(r.text, "lxml")
-
-    for card in soup.select("h4, .channel, .tv-item, a[href*='/tv-ao-vivo/']"):
-        a = card if card.name == "a" else card.find("a")
-        if not a:
-            continue
+    for a in soup.select("a[href*='/tv-ao-vivo/']"):
         href = a.get("href", "")
         if "/tv-ao-vivo/" not in href:
             continue
         slug = href.rstrip("/").split("/")[-1]
-        if slug in seen_slugs:
+        if not slug:
             continue
-        seen_slugs.add(slug)
 
-        name = a.get_text(strip=True) or slug.replace("-", " ").title()
-        parent = a.find_parent()
+        name = a.get_text(strip=True)
+        if not name:
+            h4 = a.find_parent("h4") or a.find("h4")
+            if h4:
+                name = h4.get_text(strip=True)
+        if not name:
+            name = slug.replace("-", " ").title()
+
+        parent = a.find_parent(["div", "article", "li", "section"]) or a.parent
         cats_text = ""
         if parent:
             cats_text = parent.get_text(" ", strip=True)
 
         category = normalize_category(cats_text)
+
         logo = ""
-        img = a.find("img") or (parent.find("img") if parent else None)
+        img = a.find("img")
+        if not img and parent:
+            img = parent.find("img")
         if img:
-            logo = img.get("src") or img.get("data-src") or ""
+            logo = img.get("src") or img.get("data-src") or img.get("data-lazy-src") or ""
             if logo.startswith("//"):
                 logo = "https:" + logo
             elif logo.startswith("/"):
@@ -194,9 +194,76 @@ def scrape_channel_list() -> list[dict]:
             "stream": None,
         })
 
-    print(f"[*] Encontrados {len(channels)} canais na listagem inicial")
+    return channels
 
-    print("[*] Extraindo streams das páginas dos canais...")
+
+def scrape_all_channels() -> list[dict]:
+    """Pagina o endpoint tv_paises_list_load.php até não retornar mais canais."""
+    all_channels = []
+    seen_slugs = set()
+    next_page = 1
+    max_pages = 80  # 938 canais / ~15 por página ≈ 63 páginas
+
+    print("[*] Iniciando coleta de TODOS os canais via endpoint de paginação...")
+
+    while next_page <= max_pages:
+        params = {
+            "paisurl": "tvs-brasil",
+            "short": "mo",
+            "next": next_page,
+        }
+        try:
+            r = scraper.get(LOAD_URL, params=params, timeout=20)
+            if r.status_code != 200:
+                print(f"[!] Página {next_page}: HTTP {r.status_code}")
+                break
+
+            html = r.text.strip()
+            if not html or len(html) < 50:
+                print(f"[*] Página {next_page}: vazia — fim da listagem")
+                break
+
+            batch = parse_channel_cards(html)
+            if not batch:
+                print(f"[*] Página {next_page}: nenhum canal parseado — fim")
+                break
+
+            new_count = 0
+            for ch in batch:
+                if ch["slug"] not in seen_slugs:
+                    seen_slugs.add(ch["slug"])
+                    all_channels.append(ch)
+                    new_count += 1
+
+            print(f"[*] Página {next_page}: +{new_count} canais (total acumulado: {len(all_channels)})")
+
+            if new_count == 0:
+                break
+
+            next_page += 1
+            time.sleep(0.4)
+
+        except Exception as e:
+            print(f"[!] Erro na página {next_page}: {e}")
+            break
+
+    print(f"[*] Total de canais únicos encontrados: {len(all_channels)}")
+    return all_channels
+
+
+def scrape_channel_list() -> list[dict]:
+    channels = scrape_all_channels()
+
+    if not channels:
+        print("[!] Nenhum canal encontrado. Tentando fallback na página principal...")
+        try:
+            r = scraper.get(LIST_URL, timeout=20)
+            if r.status_code == 200:
+                channels = parse_channel_cards(r.text)
+        except Exception:
+            pass
+
+    print("[*] Extraindo streams das páginas individuais dos canais...")
     def process(ch):
         stream = extract_stream_from_channel_page(ch["url"])
         ch["stream"] = stream
@@ -206,7 +273,7 @@ def scrape_channel_list() -> list[dict]:
         channels = list(exe.map(process, channels))
 
     with_stream = [c for c in channels if c.get("stream")]
-    print(f"[*] {len(with_stream)} canais com stream extraído")
+    print(f"[*] {len(with_stream)} canais com stream extraído de {len(channels)} totais")
     return with_stream
 
 
@@ -228,8 +295,9 @@ def update_and_generate():
 
     scraped = scrape_channel_list()
 
-    print("[*] Verificando canais ativos...")
+    print("[*] Verificando quais streams estão ativos...")
     active = {}
+
     def check(ch):
         alive = is_stream_alive(ch["stream"])
         return ch, alive
@@ -261,7 +329,7 @@ def update_and_generate():
     for key, data in active.items():
         final[key] = data
 
-    print(f"[*] Total final de canais ativos: {len(final)}")
+    print(f"[*] Total final de canais ativos na lista: {len(final)}")
 
     lines = [
         "#EXTM3U",
@@ -281,9 +349,10 @@ def update_and_generate():
         group = ch.get("category") or "Variedades"
         name = ch.get("name") or "Canal"
         stream = ch.get("stream")
+        slug = ch.get("slug", "")
 
         extinf = (
-            f'#EXTINF:-1 tvg-id="{ch.get("slug", "")}" '
+            f'#EXTINF:-1 tvg-id="{slug}" '
             f'tvg-name="{name}" '
             f'tvg-logo="{logo}" '
             f'group-title="{group}",{name}'

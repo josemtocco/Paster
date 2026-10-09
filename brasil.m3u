@@ -1,3 +1,61 @@
 #EXTM3U
-# Lista inicial vazia - será preenchida na primeira execução do workflow
+# Gerado em 2026-10-09 17:44:54 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
+# Total de canais: 19
+
+#EXTINF:-1 tvg-id="" tvg-name="TV BrasilBrasil - DF - BrasíliaCultura" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp" group-title="Cultura",TV BrasilBrasil - DF - BrasíliaCultura
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV CulturaBrasil - SP - São PauloDesenhosCulturaEducativos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="Cultura",TV CulturaBrasil - SP - São PauloDesenhosCulturaEducativos
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Retro CartoonBrasil - SP - São PauloDesenhos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="Desenhos",Retro CartoonBrasil - SP - São PauloDesenhos
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CazéTVBrasilEsportesFutebol" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed777683fdb619972ae85298a4925b40.webp" group-title="Esportes",CazéTVBrasilEsportesFutebol
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Filmes OnlineBrasilFilmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="Filmes",Filmes OnlineBrasilFilmes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
+#EXTINF:-1 tvg-id="" tvg-name="Multi CanaisBrasilFilmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38cca32010062541d346871765a20c4a.webp" group-title="Filmes",Multi CanaisBrasilFilmes
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rede Clouding TVBrasil - PA - BelémFilmesSeriados" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="Filmes",Rede Clouding TVBrasil - PA - BelémFilmesSeriados
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Runtime AçãoBrasilFilmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="Filmes",Runtime AçãoBrasilFilmes
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony One CinemaBrasilFilmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp" group-title="Filmes",Sony One CinemaBrasilFilmes
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tv Aracati HDBrasil - CE - FortalezaFilmesDesenhosSeriados" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="Filmes",Tv Aracati HDBrasil - CE - FortalezaFilmesDesenhosSeriados
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tv ClássicosBrasil - SP - São PauloFilmesVariedadesSeriados" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="Filmes",Tv ClássicosBrasil - SP - São PauloFilmesVariedadesSeriados
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Web Tv CineBrasil - SP - AdamantinaFilmesDesenhos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="Filmes",Web Tv CineBrasil - SP - AdamantinaFilmesDesenhos
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Web Tv Clássicos do CinemaBrasil - AM - ManausFilmesSeriados" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="Filmes",Web Tv Clássicos do CinemaBrasil - AM - ManausFilmesSeriados
+https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Record NewsBrasil - SP - São PauloNotícias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="Notícias",Record NewsBrasil - SP - São PauloNotícias
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Web Tv XtremeBrasil - RS - CamaquãDesenhosVariedadesSeriados" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87464e2fb467b19b710aadb2da52725d.webp" group-title="Seriados",Web Tv XtremeBrasil - RS - CamaquãDesenhosVariedadesSeriados
+https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AWTVBrasil - SP - SorocabaVariedadesAlta Definição" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp" group-title="Variedades",AWTVBrasil - SP - SorocabaVariedadesAlta Definição
+https://awtv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil de TelevisãoBrasil - SP - São PauloCulturaVariedades" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="Variedades",Rede Brasil de TelevisãoBrasil - SP - São PauloCulturaVariedades
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rede TVBrasil - SP - São PauloVariedadesAlta Definição" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp" group-title="Variedades",Rede TVBrasil - SP - São PauloVariedadesAlta Definição
+https://cdndirector.dailymotion.com/cdn/live/video/x8xps0s.m3u8?sec=C6BzhGek-Pb3KNkNe2mjU3TDNcP9seUg-mzodH_ObFoQ1EcfFnP5Ni37p8hsLWZoytKIgV_iQEdRUpTR2hCyHA
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Tropical (Rede Record RN)Brasil - RN - NatalVariedades" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85b498edcd66663ea7dfb0c1f9fc697e.webp" group-title="Variedades",TV Tropical (Rede Record RN)Brasil - RN - NatalVariedades
+https://video07.logicahost.com.br/portaltropicalrn/portaltropicalrn/playlist.m3u8

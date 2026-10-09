@@ -21,7 +21,6 @@ from bs4 import BeautifulSoup
 # ==================== CONFIGURAÇÕES ====================
 BASE_URL = "https://www.cxtv.com.br"
 LIST_URL = f"{BASE_URL}/tv/paises/tvs-brasil"
-# Endpoint real do "Carregar Mais"
 LOAD_URL = f"{BASE_URL}/data/tv_paises_list_load.php"
 STATE_FILE = "channels_state.json"
 OUTPUT_M3U = "brasil.m3u"
@@ -92,6 +91,19 @@ def normalize_category(raw: str) -> str:
     return "Variedades"
 
 
+def clean_name(name: str) -> str:
+    """Remove lixo comum do nome do canal."""
+    if not name:
+        return ""
+    name = name.strip()
+    # remove quebras e espaços múltiplos
+    name = re.sub(r"\s+", " ", name)
+    # remove localização típica se colada no nome
+    name = re.sub(r"\s*Brasil\s*-\s*[A-Z]{2}\s*-\s*.*$", "", name, flags=re.I)
+    name = re.sub(r"\s*Brasil\s*$", "", name, flags=re.I)
+    return name.strip()
+
+
 def is_stream_alive(url: str) -> bool:
     if not url or not url.startswith("http"):
         return False
@@ -147,37 +159,56 @@ def extract_stream_from_channel_page(channel_url: str) -> str | None:
 
 
 def parse_channel_cards(html: str) -> list[dict]:
-    """Extrai canais do HTML parcial retornado pelo endpoint de load."""
+    """
+    Extrai canais do HTML parcial do endpoint de load.
+    Prioriza o texto do <h4> como nome limpo do canal.
+    """
     channels = []
+    seen = set()
     soup = BeautifulSoup(html, "lxml")
 
-    for a in soup.select("a[href*='/tv-ao-vivo/']"):
+    # Estratégia 1: cada h4 é um canal
+    for h4 in soup.find_all("h4"):
+        name = clean_name(h4.get_text(strip=True))
+        if not name or len(name) < 2:
+            continue
+
+        # link do canal
+        a = h4.find("a", href=True)
+        if not a:
+            a = h4.find_parent("a", href=True)
+        if not a:
+            # procura link próximo no container pai
+            parent = h4.find_parent(["div", "article", "li", "section", "td"])
+            if parent:
+                a = parent.find("a", href=re.compile(r"/tv-ao-vivo/"))
+        if not a:
+            continue
+
         href = a.get("href", "")
         if "/tv-ao-vivo/" not in href:
             continue
+
         slug = href.rstrip("/").split("/")[-1]
-        if not slug:
+        if not slug or slug in seen:
             continue
+        seen.add(slug)
 
-        name = a.get_text(strip=True)
-        if not name:
-            h4 = a.find_parent("h4") or a.find("h4")
-            if h4:
-                name = h4.get_text(strip=True)
-        if not name:
-            name = slug.replace("-", " ").title()
-
-        parent = a.find_parent(["div", "article", "li", "section"]) or a.parent
+        # categorias: texto do container menos o nome
         cats_text = ""
+        parent = h4.find_parent(["div", "article", "li", "section", "td"]) or h4.parent
         if parent:
-            cats_text = parent.get_text(" ", strip=True)
+            full = parent.get_text(" ", strip=True)
+            cats_text = full.replace(name, " ", 1).strip()
 
         category = normalize_category(cats_text)
 
         logo = ""
-        img = a.find("img")
-        if not img and parent:
+        img = None
+        if parent:
             img = parent.find("img")
+        if not img:
+            img = a.find("img")
         if img:
             logo = img.get("src") or img.get("data-src") or img.get("data-lazy-src") or ""
             if logo.startswith("//"):
@@ -194,15 +225,49 @@ def parse_channel_cards(html: str) -> list[dict]:
             "stream": None,
         })
 
+    # Estratégia 2 (fallback): links diretos sem h4
+    if not channels:
+        for a in soup.select("a[href*='/tv-ao-vivo/']"):
+            href = a.get("href", "")
+            slug = href.rstrip("/").split("/")[-1]
+            if not slug or slug in seen:
+                continue
+            seen.add(slug)
+
+            name = clean_name(a.get_text(strip=True))
+            if not name or len(name) < 2:
+                name = slug.replace("-", " ").title()
+
+            parent = a.find_parent(["div", "article", "li", "section"]) or a.parent
+            cats_text = parent.get_text(" ", strip=True) if parent else ""
+            category = normalize_category(cats_text)
+
+            logo = ""
+            img = a.find("img") or (parent.find("img") if parent else None)
+            if img:
+                logo = img.get("src") or img.get("data-src") or ""
+                if logo.startswith("//"):
+                    logo = "https:" + logo
+                elif logo.startswith("/"):
+                    logo = urljoin(BASE_URL, logo)
+
+            channels.append({
+                "name": name,
+                "slug": slug,
+                "url": urljoin(BASE_URL, href),
+                "category": category,
+                "logo": logo,
+                "stream": None,
+            })
+
     return channels
 
 
 def scrape_all_channels() -> list[dict]:
-    """Pagina o endpoint tv_paises_list_load.php até não retornar mais canais."""
     all_channels = []
     seen_slugs = set()
     next_page = 1
-    max_pages = 80  # 938 canais / ~15 por página ≈ 63 páginas
+    max_pages = 80
 
     print("[*] Iniciando coleta de TODOS os canais via endpoint de paginação...")
 
@@ -235,8 +300,7 @@ def scrape_all_channels() -> list[dict]:
                     all_channels.append(ch)
                     new_count += 1
 
-            print(f"[*] Página {next_page}: +{new_count} canais (total acumulado: {len(all_channels)})")
-
+            print(f"[*] Página {next_page}: +{new_count} canais (total: {len(all_channels)})")
             if new_count == 0:
                 break
 
@@ -320,6 +384,7 @@ def update_and_generate():
     final = {}
     for key, data in old_channels.items():
         if key in active:
+            # atualiza nome também (caso tenha sido corrigido)
             final[key] = active[key]
         else:
             if is_stream_alive(data.get("stream", "")):
@@ -347,10 +412,11 @@ def update_and_generate():
     for ch in sorted_channels:
         logo = ch.get("logo") or ""
         group = ch.get("category") or "Variedades"
-        name = ch.get("name") or "Canal"
+        name = clean_name(ch.get("name") or "Canal")
         stream = ch.get("stream")
         slug = ch.get("slug", "")
 
+        # Formato SS IPTV: nome limpo após a vírgula
         extinf = (
             f'#EXTINF:-1 tvg-id="{slug}" '
             f'tvg-name="{name}" '

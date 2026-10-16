@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-10-16 11:13:30 UTC
+# Gerado em 2026-10-16 16:31:42 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 531
+# Total de canais: 536
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -86,6 +86,9 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nova Tv Agrotour" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2401b9fcc6879683bccf4cb0a434013b.webp" group-title="Cultura",Nova Tv Agrotour
 https://stmv3.liveplushd.com.br/tvnovaagrotour/tvnovaagrotour/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ORTVWEB" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/68b394ed71ce08f0b92863a2db3f4889.webp" group-title="Cultura",ORTVWEB
+https://tv.ortv.com.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STZ TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c0496338a7628318bbdf8916033af566.webp" group-title="Cultura",STZ TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
@@ -366,6 +369,9 @@ https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/play
 #EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network -" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f6652061e12b0246ef228236f06fa5f1.webp" group-title="Filmes",MyTime Movie Network -
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ORTV Filmes e Variedades" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45c64f0fcb64c6441c9d9ddff2671b23.webp" group-title="Filmes",ORTV Filmes e Variedades
+https://tv.ortv.com.br/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Rede QDM" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26827ace5c5608c773bbb53cd2486997.webp" group-title="Filmes",Rede QDM
 https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
 
@@ -401,9 +407,6 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/pl
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Cidade" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbcbbc692ed0a16a020df7e0fd6816fa.webp" group-title="Filmes",Tv Cidade
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Clube RN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/365cda8ce34a301e813ff056a9b626fe.webp" group-title="Filmes",TV Clube RN
-https://radios.braviahost.com.br:2020/hls/tvclubern/tvclubern.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv J.SID" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0ab5f48ba024a538cd65fd54869ba8ac.webp" group-title="Filmes",Tv J.SID
 https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
@@ -539,6 +542,9 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Caraguá TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a866d989c5bdf80ebf3d8cc759d8e13b.webp" group-title="Notícias",Caraguá TV
 https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fala Litoral WEB TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f482da2bd0fadbff4843b5734ca1c9a.webp" group-title="Notícias",Fala Litoral WEB TV
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Giro TV News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/64febaa2bf458ab08e49bc0147ae4d56.webp" group-title="Notícias",Giro TV News
 https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8
@@ -1053,6 +1059,9 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sertão TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c70c8f8099730a84bf271395381692e.webp" group-title="Variedades",Sertão TV
 https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SICtv (Rede Record RO)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a70f301cf22c4c8ce874d3ebb383fc93.webp" group-title="Variedades",SICtv (Rede Record RO)
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=10625035048351615000
+
 #EXTINF:-1 tvg-id="" tvg-name="SOU TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ccd9ebfd88060e52bc576b22c4009639.webp" group-title="Variedades",SOU TV
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 
@@ -1119,6 +1128,9 @@ https://Stmv1.samcast.com.br/thiago8769/thiago8769/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Boqueirão" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a727b67cbcd3f6644f083c1f3e84468f.webp" group-title="Variedades",TV Boqueirão
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Tv Brasil Hits" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4acc74c31e9cddc8c8416abdc96ebd3e.webp" group-title="Variedades",Tv Brasil Hits
+https://video04.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Tv Brasil Oeste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/81bd24cfd9feca68790b02482d3a875d.webp" group-title="Variedades",Tv Brasil Oeste
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
@@ -1154,6 +1166,9 @@ https://stream.ichibansys.com:3230/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Cidade Canal 9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc7938ed99be1d6dd528f8919ade2962.webp" group-title="Variedades",Tv Cidade Canal 9
 https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tv Cidade Catanduva" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/db517a45af0f61fe78ef1e4f38c92bff.webp" group-title="Variedades",Tv Cidade Catanduva
+https://br5093.streamingdevideo.com.br/tjxyctjwzw/tjxyctjwzw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Cidade Verde" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5aaaf81af069b1b3a7639fc85b0023be.webp" group-title="Variedades",TV Cidade Verde
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
@@ -1332,9 +1347,6 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 #EXTINF:-1 tvg-id="" tvg-name="TV MISSÃO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de9df0389453f24ee04b4b3fd561e018.webp" group-title="Variedades",TV MISSÃO
 https://video05.logicahost.com.br/tvmissao/tvmissao/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Mocinha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a86301efd9309621a5d0bdeef6f39718.webp" group-title="Variedades",TV Mocinha
-https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV MON" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0048ba30afe4808a9a7ed1722c22b994.webp" group-title="Variedades",TV MON
 https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
 
@@ -1400,9 +1412,6 @@ https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Passo Fundo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b55cbd4b87030efad00a1fef55f1fe90.webp" group-title="Variedades",Tv Passo Fundo
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV PBC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/08a60ff0601baa24a67ce43644c586af.webp" group-title="Variedades",TV PBC
-https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Petrópolis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a63097bcfe4786a82f447d9cadae57f.webp" group-title="Variedades",TV Petrópolis
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
@@ -1472,6 +1481,9 @@ https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Soteropolitana" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd0cb19112f80ae4284913cb004767fb.webp" group-title="Variedades",TV Soteropolitana
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TV Sul" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d40fda7b9717306b92f1c3f736fd671.webp" group-title="Variedades",TV Sul
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv São Luís (RedeTv)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1bbe7e180925804f87b2c65989332f33.webp" group-title="Variedades",Tv São Luís (RedeTv)
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
@@ -1550,6 +1562,9 @@ https://pop2.uniquetv.com.br/hls/uniquetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Utv Londrina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd13ec29c83df6ab5098f93661346760.webp" group-title="Variedades",Utv Londrina
 https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Via Morena" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f74d6efe38f1256a08f910ccd7d0d26.webp" group-title="Variedades",Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivam Web Tv" tvg-logo="https://www.cxtv.com.br/assets/img/fora-do-ar.png" group-title="Variedades",Vivam Web Tv
 https://stmv1.liveplushd.com.br/tvvivam/tvvivam/playlist.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-10-24 04:18:14 UTC
+# Gerado em 2026-10-24 10:47:24 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 536
+# Total de canais: 534
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal do Criador" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f57a9beaaa83cbdce4d9512730333d21.webp" group-title="Agronegócio",Canal do Criador
 https://stream01.canalrural.com.br/crur/cr3/playlist.m3u8
@@ -675,14 +675,14 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Alese" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17eb006703dd0aafc12b954edae3b58a.webp" group-title="Públicos",TV Alese
 https://tvalese.al.se.leg.br/hls/tvalese/1_2/index.m3u8?tkn=3146238362
 
+#EXTINF:-1 tvg-id="" tvg-name="TV Assembleia MS (TV ALMS)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/637b529f9580ae76605a3c91a5e34bab.webp" group-title="Públicos",TV Assembleia MS (TV ALMS)
+https://live.stream.al.ms.gov.br/memfs/936d09fa-2827-4002-a58f-085c1826aab9.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Tv Assembléia Alagoas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf2dd7dd5cea897c2b6bdb922fecd7a6.webp" group-title="Públicos",Tv Assembléia Alagoas
 https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Assembléia Bahia (TV ALBA)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45b4a6049d3da50aba90492aa57d987b.webp" group-title="Públicos",Tv Assembléia Bahia (TV ALBA)
 https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv Assembléia Ceará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b66659d34fed6a2d3d8e09213747ace.webp" group-title="Públicos",Tv Assembléia Ceará
-https://streaming.viralmidia.com/hls/stream1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Assembléia Goiás" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37b2eb3496342c646e32f138270b76ca.webp" group-title="Públicos",TV Assembléia Goiás
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
@@ -794,6 +794,9 @@ https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Campos Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d5c49a60e3f43c9df003360e1ffae455.webp" group-title="Variedades",Campos Web Tv
 https://camposwebtv.com/hls/live/camposwebtv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10 Fernandopolis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f677002ac37c9ece11d689b0040f300d.webp" group-title="Variedades",Canal 10 Fernandopolis
+https://canaldez.acessaradios.com.br/canaldez/canaldez/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 21" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49ed969afb1090e69b831910bfb6b82.webp" group-title="Variedades",Canal 21
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
@@ -1413,9 +1416,6 @@ https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV PBC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/08a60ff0601baa24a67ce43644c586af.webp" group-title="Variedades",TV PBC
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Petrópolis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a63097bcfe4786a82f447d9cadae57f.webp" group-title="Variedades",TV Petrópolis
-https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Plan" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6704a428b4a888b334e8ab4a27ff66cf.webp" group-title="Variedades",TV Plan
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 
@@ -1466,9 +1466,6 @@ https://5c483b9d1019c.streamlock.net/tvserradosbrindes/tvserradosbrindes/playlis
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Serra" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b5df7e5969e140b223e73da72fe1b4f1.webp" group-title="Variedades",Tv Serra
 https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Serra Do Mar" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c2f2182b65489ad362eb712180f5356f.webp" group-title="Variedades",TV Serra Do Mar
-https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Sertão Petrolina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0283ab6ed2fbdec30e5dc9dae5757a7.webp" group-title="Variedades",TV Sertão Petrolina
 https://video07.logicahost.com.br/sertaopetrolina/sertaopetrolina/playlist.m3u8
@@ -1562,9 +1559,6 @@ https://pop2.uniquetv.com.br/hls/uniquetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Utv Londrina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd13ec29c83df6ab5098f93661346760.webp" group-title="Variedades",Utv Londrina
 https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Via Morena" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f74d6efe38f1256a08f910ccd7d0d26.webp" group-title="Variedades",Via Morena
-https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivam Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a40b87342e5dcbbcefdabd74fd5ffefd.webp" group-title="Variedades",Vivam Web Tv
 https://stmv1.liveplushd.com.br/tvvivam/tvvivam/playlist.m3u8

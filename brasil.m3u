@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-10-26 22:37:20 UTC
+# Gerado em 2026-10-27 04:44:15 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 528
+# Total de canais: 529
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal do Criador" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f57a9beaaa83cbdce4d9512730333d21.webp" group-title="Agronegócio",Canal do Criador
 https://stream01.canalrural.com.br/crur/cr3/playlist.m3u8
@@ -41,6 +41,9 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar Maringá" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95b87ff88cf146e5fac1f609cc0fa419.webp" group-title="Católica",TV Evangelizar Maringá
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tv Horizonte" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4da6b42bfeb89ac05d8835cfa0f2e1ae.webp" group-title="Católica",Tv Horizonte
+https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Imaculada Conceição" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e69a7da0c2334100438e5c3c520e7a0e.webp" group-title="Católica",TV Imaculada Conceição
 https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
@@ -131,6 +134,9 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Jetsons Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="Desenhos",Jetsons Tv
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ministério Infantil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b4cd2b4135c03b25ffe91155d90de53f.webp" group-title="Desenhos",Ministério Infantil TV
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Toon Goggles em português" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/472dd450bc628e36434b6c599e6cb664.webp" group-title="Desenhos",Toon Goggles em português
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
@@ -450,9 +456,6 @@ https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gospel Music Television" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="Música",Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Hip-hop Vai Além Na Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/806fe527207bb347c23673e22f5826b7.webp" group-title="Música",Hip-hop Vai Além Na Tv
-https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Kpop TV Play" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="Música",Kpop TV Play
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 
@@ -536,6 +539,9 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Leouve Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/259c5010a5dc2fd062b5bbf8324ce110.webp" group-title="Notícias",Leouve Tv
 https://vid1100.trvdp.com/media/0f1063ff035a329dc566548b67c8f0dec666a3fd/hls/0f1063ff035a329dc566548b67c8f0dec666a3fd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Milk TV" tvg-logo="https://www.cxtv.com.br/assets/img/fora-do-ar.png" group-title="Notícias",Milk TV
+https://stmv1.srvst.com/milktv/milktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Notícias Agrícolas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc4bafac99f0014bd628f85263f5d1a0.webp" group-title="Notícias",Notícias Agrícolas
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
@@ -663,14 +669,14 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Alese" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17eb006703dd0aafc12b954edae3b58a.webp" group-title="Públicos",TV Alese
 https://tvalese.al.se.leg.br/hls/tvalese/1_2/index.m3u8?tkn=3146238362
 
+#EXTINF:-1 tvg-id="" tvg-name="TV Assembleia MS (TV ALMS)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/637b529f9580ae76605a3c91a5e34bab.webp" group-title="Públicos",TV Assembleia MS (TV ALMS)
+https://live.stream.al.ms.gov.br/memfs/936d09fa-2827-4002-a58f-085c1826aab9.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Tv Assembléia Alagoas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf2dd7dd5cea897c2b6bdb922fecd7a6.webp" group-title="Públicos",Tv Assembléia Alagoas
 https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Assembléia Bahia (TV ALBA)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45b4a6049d3da50aba90492aa57d987b.webp" group-title="Públicos",Tv Assembléia Bahia (TV ALBA)
 https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv Assembléia Ceará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b66659d34fed6a2d3d8e09213747ace.webp" group-title="Públicos",Tv Assembléia Ceará
-https://streaming.viralmidia.com/hls/stream1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Assembléia Goiás" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37b2eb3496342c646e32f138270b76ca.webp" group-title="Públicos",TV Assembléia Goiás
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
@@ -923,9 +929,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/168f0c2d7fb92988c1cb0f156fe390eb.webp" group-title="Variedades",Play TV
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Plena Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/32958c8ea3b43d234531796cd6b254d6.webp" group-title="Variedades",Plena Tv
-https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="POA Streaming" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b111bf0c2e98660f9003b15bcbd59618.webp" group-title="Variedades",POA Streaming
 https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8

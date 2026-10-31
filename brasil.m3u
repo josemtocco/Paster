@@ -1,16 +1,10 @@
 #EXTM3U
-# Gerado em 2026-10-30 22:13:26 UTC
+# Gerado em 2026-10-31 05:12:45 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 525
+# Total de canais: 523
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Criador" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f57a9beaaa83cbdce4d9512730333d21.webp" group-title="Agronegócio",Canal do Criador
-https://stream01.canalrural.com.br/crur/cr3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2823b58a4365d7cb2d69616fb0ca06bc.webp" group-title="Agronegócio",Canal Rural
-https://stream01.canalrural.com.br/crur/cr2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Solo Fértil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee0925d20ba168e94efefb495e58f103.webp" group-title="Agronegócio",Canal Solo Fértil
 https://stream.canalsolofertil.com.br/live/canalsolofertil/index.m3u8
@@ -546,9 +540,6 @@ https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Leouve Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/259c5010a5dc2fd062b5bbf8324ce110.webp" group-title="Notícias",Leouve Tv
 https://vid1100.trvdp.com/media/0f1063ff035a329dc566548b67c8f0dec666a3fd/hls/0f1063ff035a329dc566548b67c8f0dec666a3fd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Milk TV" tvg-logo="https://www.cxtv.com.br/assets/img/fora-do-ar.png" group-title="Notícias",Milk TV
-https://stmv1.srvst.com/milktv/milktv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Notícias Agrícolas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc4bafac99f0014bd628f85263f5d1a0.webp" group-title="Notícias",Notícias Agrícolas
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
 
@@ -593,9 +584,6 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Caruaru" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/000bc231c9fa000f01b251d77030e7a1.webp" group-title="Notícias",TV Caruaru
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Cidade 10" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa6e2cbbbdf0ce18e985a14919dce4c7.webp" group-title="Notícias",TV Cidade 10
-https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Conquista (Rede Record)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2afc3b483887faa74817c62ee6b8d67.webp" group-title="Notícias",TV Conquista (Rede Record)
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
@@ -1038,6 +1026,9 @@ https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV Canal 38" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7fac3844403ac236f8d09e0f3097cb79.webp" group-title="Variedades",RTV Canal 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Redentor DF" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f15a636f5f1dd9ab7f90459d8ee425a4.webp" group-title="Variedades",Rádio Redentor DF
+https://virtues.live:1936/redentor2/redentor2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sbt Tailândia (Tv Guarajá)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b273833114be40759348182b92d5195.webp" group-title="Variedades",Sbt Tailândia (Tv Guarajá)
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
@@ -1407,6 +1398,9 @@ https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Pop" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7504cda1699120216982a5b487a3fb3e.webp" group-title="Variedades",Tv Pop
 https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Tv Portal HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c17563eb45952186b3119f5f08edbaee.webp" group-title="Variedades",Tv Portal HD
+https://flussonic-tv2.jupiter.com.br/portalativo/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Tv Portalweb" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3453d744a350672e45c8346231b87f0f.webp" group-title="Variedades",Tv Portalweb
 https://stmv.webtvninjas.com.br/tvportalweb/tvportalweb/playlist.m3u8
 
@@ -1454,9 +1448,6 @@ https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Soteropolitana" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd0cb19112f80ae4284913cb004767fb.webp" group-title="Variedades",TV Soteropolitana
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Sul" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d40fda7b9717306b92f1c3f736fd671.webp" group-title="Variedades",TV Sul
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv São Luís (RedeTv)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1bbe7e180925804f87b2c65989332f33.webp" group-title="Variedades",Tv São Luís (RedeTv)
 https://stmv1.srvif.com/tvsaoluis8/tvsaoluis8/playlist.m3u8
@@ -1514,6 +1505,9 @@ https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVCOM Santos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/22c4684dcb029a902678e98ba9a7f67d.webp" group-title="Variedades",TVCOM Santos
 https://video01.logicahost.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVitapê" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ddfe490314afed9240fbb82b0aa1e33e.webp" group-title="Variedades",TVitapê
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVM Pará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dbea108b094c01069ede2790a93b13dd.webp" group-title="Variedades",TVM Pará
 https://video09.logicahost.com.br/tvmpara/tvmpara/playlist.m3u8

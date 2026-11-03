@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-02 15:31:40 UTC
+# Gerado em 2026-11-03 00:54:39 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 498
+# Total de canais: 495
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -101,9 +101,6 @@ https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Novo Milênio" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4336ae3d904a81fd626e9039a5e4a75c.webp" group-title="Cultura",Tv Novo Milênio
 https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Paraná Turismo (Cultura PR)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6788ade239f63ac5f8262c188729285c.webp" group-title="Cultura",TV Paraná Turismo (Cultura PR)
-https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVC Ourinhos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de686c104e47164ada190ac1ea2ab2a5.webp" group-title="Cultura",TVC Ourinhos
 https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
@@ -602,9 +599,6 @@ https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Jovem Pan News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="Notícias",TV Jovem Pan News
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv Liberdade Bagé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e7e3094dd1541f2232362f5e344b1a6.webp" group-title="Notícias",Tv Liberdade Bagé
-https://video01.brascast.com/eberson6273/eberson6273/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Luzilândia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1b07d5e7f7527ec213b97d55987a14a.webp" group-title="Notícias",Tv Luzilândia
 https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
@@ -1424,9 +1418,6 @@ https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVC Jau" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f6a708a4cc0ff47d29f12c6e37964fad.webp" group-title="Variedades",TVC Jau
 https://cdn.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TVC Rio (TV Comunitária Rio)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/423124d5c6c21ef24553145ac0701e1e.webp" group-title="Variedades",TVC Rio (TV Comunitária Rio)
-https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVCB Digital" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5352cb60b23156b3fd4aa080b781b2d8.webp" group-title="Variedades",TVCB Digital
 https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8

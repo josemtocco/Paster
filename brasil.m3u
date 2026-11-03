@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-03 14:02:12 UTC
+# Gerado em 2026-11-03 23:13:20 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 490
+# Total de canais: 487
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -744,9 +744,6 @@ https://StmV1.srvstm.com/radio9815/radio9815/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDC TV (TV Á Crítica)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/686af5ac940d65d1047605c09e3d48c2.webp" group-title="Variedades",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Bem Mais Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6f9f86a3d4d01a4c3756ee01a7401ec6.webp" group-title="Variedades",Bem Mais Tv
-https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="BS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82af6d676cbbc2cd8abafdb8348d8da3.webp" group-title="Variedades",BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 
@@ -845,9 +842,6 @@ https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nas Ondas da Praia Grande" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/76d5fb733be7a8acec2aec54a3a077c8.webp" group-title="Variedades",Nas Ondas da Praia Grande
 https://live20.bozztv.com/akamaissh101/ssh101/nasondas/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Nossa Tv (TV Cultura RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1da8fb88aef9df3483c940df68b87cf.webp" group-title="Variedades",Nossa Tv (TV Cultura RN)
-https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Nova Barreiros Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8563fbe715e6343e6aec4e59aea378d5.webp" group-title="Variedades",Nova Barreiros Web Tv
 https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
@@ -1037,9 +1031,6 @@ https://Stmv1.samcast.com.br/thiago8769/thiago8769/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Boqueirão" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a727b67cbcd3f6644f083c1f3e84468f.webp" group-title="Variedades",TV Boqueirão
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv Brasil Hits" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4acc74c31e9cddc8c8416abdc96ebd3e.webp" group-title="Variedades",Tv Brasil Hits
-https://video04.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV BRICS - Português" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d2ac9ceedeebd16762d08118f9fc39ab.webp" group-title="Variedades",TV BRICS - Português
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8

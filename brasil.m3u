@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-03 00:54:39 UTC
+# Gerado em 2026-11-03 14:02:12 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 495
+# Total de canais: 490
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -212,9 +212,6 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Despertar Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/33dd893e09f03f2002d13b598c1d4bbc.webp" group-title="Evangélica",Despertar Tv
 https://br.conectmy.com.br/DespertarTV/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Fonte TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9921f8a885844f850574801835eb2791.webp" group-title="Evangélica",Fonte TV
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IBMC TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/705fbfd2429a282b79ca1db2d200cf92.webp" group-title="Evangélica",IBMC TV
 https://stmv1.srvstm.com/igreja9480/igreja9480/playlist.m3u8
@@ -654,9 +651,6 @@ https://5c483b9d1019c.streamlock.net/staffvideotv/staffvideotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Assembléia Bahia (TV ALBA)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45b4a6049d3da50aba90492aa57d987b.webp" group-title="Públicos",Tv Assembléia Bahia (TV ALBA)
 https://live.mediastreaming.com.br/alba/cdn.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tv Assembléia Ceará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b66659d34fed6a2d3d8e09213747ace.webp" group-title="Públicos",Tv Assembléia Ceará
-https://streaming.viralmidia.com/hls/stream1/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Assembléia Goiás" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37b2eb3496342c646e32f138270b76ca.webp" group-title="Públicos",TV Assembléia Goiás
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
 
@@ -833,9 +827,6 @@ https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Life SCTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b2200a9eb98d99227470e59dd30e24ff.webp" group-title="Variedades",Life SCTV
 https://pop.uniquetv.com.br/reisenclubetv/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Litoral Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9e714ee815444ec0dd20591a9acea727.webp" group-title="Variedades",Litoral Tv
-https://live20.bozztv.com/akamaissh101/ssh101/litoraltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Livre TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a80e62c4aee6444ca7551dc6ebc79ad2.webp" group-title="Variedades",Livre TV
 https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8
@@ -1308,9 +1299,6 @@ https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV PBC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/08a60ff0601baa24a67ce43644c586af.webp" group-title="Variedades",TV PBC
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Plan" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6704a428b4a888b334e8ab4a27ff66cf.webp" group-title="Variedades",TV Plan
-https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Tv Planalto Norte" tvg-logo="https://www.cxtv.com.br/assets/img/fora-do-ar.png" group-title="Variedades",Tv Planalto Norte
 https://pop.uniquetv.com.br/tvplanaltonorte/index.fmp4.m3u8
 
@@ -1442,9 +1430,6 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Unique TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/03dddf6f587a157a9de2639a9a1b71fd.webp" group-title="Variedades",Unique TV
 https://pop2.uniquetv.com.br/hls/uniquetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Utv Londrina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd13ec29c83df6ab5098f93661346760.webp" group-title="Variedades",Utv Londrina
-https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Via Morena" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f74d6efe38f1256a08f910ccd7d0d26.webp" group-title="Variedades",Via Morena
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-04 05:57:25 UTC
+# Gerado em 2026-11-04 14:19:16 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 483
+# Total de canais: 480
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -807,14 +807,8 @@ https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Já Viu TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1928777db7c94a0608743e72c0c8b077.webp" group-title="Variedades",Já Viu TV
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Lagoa TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4626f7352019945c9e4bc2285aee490f.webp" group-title="Variedades",Lagoa TV
-https://cdn-giovane959.ciclano.io:1443/giovane959/giovane959/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Lavras Ce Tv Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b654f477e158d0e85cd9962b638ed9b.webp" group-title="Variedades",Lavras Ce Tv Web
 https://stmv1.srvif.com/lavrastv/lavrastv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Lider Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c053aa2131090d7c1a5e0096422b9883.webp" group-title="Variedades",Lider Tv
-https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Life SCTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b2200a9eb98d99227470e59dd30e24ff.webp" group-title="Variedades",Life SCTV
 https://pop.uniquetv.com.br/reisenclubetv/index.fmp4.m3u8
@@ -950,9 +944,6 @@ https://video05.logicahost.com.br/rtvsdsvalenca/rtvsdsvalenca/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sertão TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c70c8f8099730a84bf271395381692e.webp" group-title="Variedades",Sertão TV
 https://video11.logicahost.com.br/sertaotv/sertaotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SICtv (Rede Record RO)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a70f301cf22c4c8ce874d3ebb383fc93.webp" group-title="Variedades",SICtv (Rede Record RO)
-https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=10625035048351615000
 
 #EXTINF:-1 tvg-id="" tvg-name="Studio Max TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d389c440d214908e3ed4865b08e76c33.webp" group-title="Variedades",Studio Max TV
 https://video11.logicahost.com.br/tvdopovo/tvdopovo/playlist.m3u8

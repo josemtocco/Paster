@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-04 14:19:16 UTC
+# Gerado em 2026-11-04 23:33:14 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 480
+# Total de canais: 479
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -1337,9 +1337,6 @@ https://stmv1.srvif.com/ddacostenaro/ddacostenaro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Todo Dia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b987ac1cb5f4c258ef7510c412c592d8.webp" group-title="Variedades",Tv Todo Dia
 https://br5093.streamingdevideo.com.br/tvtododia/tvtododia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Tokyo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d4bdb68a85b31fdb5ab58d73fe88d22.webp" group-title="Variedades",TV Tokyo
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Tudo Web" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5180377e8b763646250cf46e0fb44975.webp" group-title="Variedades",Tv Tudo Web
 https://stmv1.paineldevideo.com.br/jesiel/jesiel/playlist.m3u8

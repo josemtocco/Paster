@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-05 06:23:02 UTC
+# Gerado em 2026-11-05 19:53:03 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 457
+# Total de canais: 452
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -47,9 +47,6 @@ https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV SÉCULO 21" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e66f9447b7d829121417cfa6b60f24d8.webp" group-title="Católica",TV SÉCULO 21
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv Vianney" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4ab1516236c11b949d064a330410b422.webp" group-title="Católica",Tv Vianney
-https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Bem Melhor" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/966ed8bebb6bda4c79ddb408dd776d58.webp" group-title="Culinária",Canal Bem Melhor
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
@@ -107,9 +104,6 @@ https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVE Ponta Grossa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da2de44e3352e21b54fad7bd68de498d.webp" group-title="Cultura",TVE Ponta Grossa
 https://live01-pgz.cdn.uepg.br/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Web TV Vale do Uruará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7858a37ec72de29670e36bb32cdd20f6.webp" group-title="Cultura",Web TV Vale do Uruará
-https://stmv8.samcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82f20da9a5abfbf7420a5058a7852cab.webp" group-title="Desenhos",Anime Channel
 https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
@@ -819,9 +813,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/168f0c2d7fb92988c1cb0f156fe390eb.webp" group-title="Variedades",Play TV
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Plena Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/32958c8ea3b43d234531796cd6b254d6.webp" group-title="Variedades",Plena Tv
-https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="POA Streaming" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b111bf0c2e98660f9003b15bcbd59618.webp" group-title="Variedades",POA Streaming
 https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8
 
@@ -1245,9 +1236,6 @@ https://video04.logicahost.com.br/tvsanta/tvsanta/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV SDB" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ca34efac059ef73b4ab2d90322fc32d1.webp" group-title="Variedades",TV SDB
 https://5c483b9d1019c.streamlock.net/tvserradosbrindes/tvserradosbrindes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tv Serra" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b5df7e5969e140b223e73da72fe1b4f1.webp" group-title="Variedades",Tv Serra
-https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Serra Do Mar" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c2f2182b65489ad362eb712180f5356f.webp" group-title="Variedades",TV Serra Do Mar
 https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
 
@@ -1328,9 +1316,6 @@ https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVR SUL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf002340b5696c7994425ad6b4c9e201.webp" group-title="Variedades",TVR SUL
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UMA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/adfbfd7b6f7894ef81e136d49ed0cfdc.webp" group-title="Variedades",UMA TV
-https://umatv.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Unique TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/03dddf6f587a157a9de2639a9a1b71fd.webp" group-title="Variedades",Unique TV
 https://pop2.uniquetv.com.br/hls/uniquetv.m3u8

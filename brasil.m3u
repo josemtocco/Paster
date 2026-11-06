@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-06 06:14:22 UTC
+# Gerado em 2026-11-06 19:17:09 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 447
+# Total de canais: 444
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -107,9 +107,6 @@ https://live01-pgz.cdn.uepg.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82f20da9a5abfbf7420a5058a7852cab.webp" group-title="Desenhos",Anime Channel
 https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Animestation" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="Desenhos",Animestation
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Desenhos Clássicos TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b2343886b3d164425e642250d02dd8cd.webp" group-title="Desenhos",Desenhos Clássicos TV
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
@@ -684,9 +681,6 @@ https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82af6d676cbbc2cd8abafdb8348d8da3.webp" group-title="Variedades",BS TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Campos Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d5c49a60e3f43c9df003360e1ffae455.webp" group-title="Variedades",Campos Web Tv
-https://camposwebtv.com/hls/live/camposwebtv/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Canal 10 Fernandopolis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f677002ac37c9ece11d689b0040f300d.webp" group-title="Variedades",Canal 10 Fernandopolis
 https://canaldez.acessaradios.com.br/canaldez/canaldez/playlist.m3u8
 
@@ -1256,9 +1250,6 @@ https://video01.brascast.com/marilia2344/marilia2344/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Verdes Campos Sat" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8dae478045ac5204b7f91998806551fc.webp" group-title="Variedades",TV Verdes Campos Sat
 https://a.cdni.live/redeverdes2288/redeverdes2288/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Vila Real (Record MT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bbcbd9c502664757184f48a121393d12.webp" group-title="Variedades",TV Vila Real (Record MT)
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV WTJMINAS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9dfe5b5e040058ad579545aeae32fd53.webp" group-title="Variedades",TV WTJMINAS
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8

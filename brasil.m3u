@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-05 19:53:03 UTC
+# Gerado em 2026-11-06 06:14:22 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 452
+# Total de canais: 447
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -276,9 +276,6 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Votuline" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1616ee681bc3419828472d8ccf4477c.webp" group-title="Evangélica",Tv Votuline
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Web Maanaim" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/02f7e644331102ab67374a3420d5775a.webp" group-title="Evangélica",TV Web Maanaim
-https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Web Tv e Radio Fonte Viva Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/050e40b4aa2bd249f7d595b14a388ca6.webp" group-title="Evangélica",Web Tv e Radio Fonte Viva Gospel
 https://stmv1.liveplushd.com.br/webtvfontevivagospel/webtvfontevivagospel/playlist.m3u8
 
@@ -522,12 +519,6 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Caruaru" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/000bc231c9fa000f01b251d77030e7a1.webp" group-title="Notícias",TV Caruaru
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Cidade 10" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa6e2cbbbdf0ce18e985a14919dce4c7.webp" group-title="Notícias",TV Cidade 10
-https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Conquista (Rede Record)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2afc3b483887faa74817c62ee6b8d67.webp" group-title="Notícias",TV Conquista (Rede Record)
-https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Diário Do Sertão" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/060dffc84216523aea0a7f765ec52285.webp" group-title="Notícias",TV Diário Do Sertão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
 
@@ -573,14 +564,8 @@ https://video05.logicahost.com.br/tvprodutobrasil/tvprodutobrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVC Brasil de Notícias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c0a5f035492c7d59612baa0c2c509c3.webp" group-title="Notícias",TVC Brasil de Notícias
 https://stmv1.srvif.com/tvcbrasil/tvcbrasil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TVC Panorama (Cultura SC)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2fdef159ca515cdbb49a11c84b94ebcf.webp" group-title="Notícias",TVC Panorama (Cultura SC)
-https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TVC Pará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ab44544bd6523b400763ff37f0b3caf.webp" group-title="Notícias",TVC Pará
 https://srt01.logicahost.com.br/tvcbelem/tracks-v1/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TVCI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b68ceee26212c27dca7a885602969d9c.webp" group-title="Notícias",TVCI
-https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVV - TV Votorantim" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb19ebdc1f27f11728c1d8b14c6cf6c7.webp" group-title="Notícias",TVV - TV Votorantim
 https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8

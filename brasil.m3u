@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-07 05:43:26 UTC
+# Gerado em 2026-11-07 12:53:01 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 440
+# Total de canais: 438
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -780,9 +780,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/168f0c2d7fb92988c1cb0f156fe390eb.webp" group-title="Variedades",Play TV
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="POA Streaming" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b111bf0c2e98660f9003b15bcbd59618.webp" group-title="Variedades",POA Streaming
-https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Polidoro TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/72558253eaef07a81bae1e3272497733.webp" group-title="Variedades",Polidoro TV
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
@@ -1067,9 +1064,6 @@ https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Mais Maricá" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/343eeb4ef1b772d8727b9e450590081c.webp" group-title="Variedades",Tv Mais Maricá
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Mais Marília" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/36751842007baa1d05801fff01217280.webp" group-title="Variedades",TV Mais Marília
-https://video01.logicahost.com.br/tvmais/tvmais/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Mais News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e3f60683aaa25e41f7c9b9a87f1bb20.webp" group-title="Variedades",Tv Mais News
 https://video05.logicahost.com.br/tvmais01/tvmais01/playlist.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-07 12:53:01 UTC
+# Gerado em 2026-11-07 21:46:02 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 438
+# Total de canais: 432
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -498,9 +498,6 @@ https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super Marajoara 89,9 FM" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b23f0b7a7eef132668cb315e1dd2ac0.webp" group-title="Notícias",Super Marajoara 89,9 FM
 https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV A Folha (TVA)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b3ab9881916a5409bbb42b796c5666d4.webp" group-title="Notícias",TV A Folha (TVA)
-https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Amplitude Juína (Record MT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f50fbc433dd7abb5be15b099ac762bb0.webp" group-title="Notícias",TV Amplitude Juína (Record MT)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
@@ -533,9 +530,6 @@ https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Jovem Pan News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="Notícias",TV Jovem Pan News
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv Luzilândia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1b07d5e7f7527ec213b97d55987a14a.webp" group-title="Notícias",Tv Luzilândia
-https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Master" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fdd0948bea9bc81f816826f72c6617b3.webp" group-title="Notícias",TV Master
 https://a.cdni.live/tvmaster/tvmaster/playlist.m3u8
@@ -636,9 +630,6 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Z Nation em Português" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e9bdba7cd2d7a678a97e766b186068e4.webp" group-title="Seriados",Z Nation em Português
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889478
 
-#EXTINF:-1 tvg-id="" tvg-name="CMD TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/63f284143f9cc4b9f045911e38f18fcb.webp" group-title="Televendas",CMD TV
-https://stmv2.samcast.com.br/cmdtv/cmdtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Tv Tudo BH" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/30b45f0a3f3893cb10b2e72b196586e3.webp" group-title="Televendas",Tv Tudo BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
 
@@ -725,9 +716,6 @@ https://video01.brascast.com/gen3348/gen3348/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Imperial Tv (RedeTv)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1eba7eb2bfa9b3a6b02d33e4365c2b74.webp" group-title="Variedades",Imperial Tv (RedeTv)
 https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/956249947191e0e94a5a4768b952d303.webp" group-title="Variedades",ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Já Viu TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1928777db7c94a0608743e72c0c8b077.webp" group-title="Variedades",Já Viu TV
 https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
@@ -923,9 +911,6 @@ https://stmv8.samcast.com.br/pedro9687/pedro9687/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Caiuá" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a7dd1fe3ceb32bc96eca80be642325a.webp" group-title="Variedades",TV Caiuá
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Candidés" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f5f66db0430b6a9bb16cc342c2c50eac.webp" group-title="Variedades",TV Candidés
-https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Caravelas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/31b06827552515993ef20d5608ef5735.webp" group-title="Variedades",Tv Caravelas
 https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/playlist.m3u8
@@ -1289,9 +1274,6 @@ https://stmv5.samcast.com.br/oscarwagnerdesouza1083/oscarwagnerdesouza1083/playl
 
 #EXTINF:-1 tvg-id="" tvg-name="Web Tv Alternativa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/61759992b087916c9403330b8c7136cd.webp" group-title="Variedades",Web Tv Alternativa
 https://video04.logicahost.com.br/webtvalternativa/webtvalternativa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Web Tv Cidade Janauba" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17d246e2303389e356149c2a91069711.webp" group-title="Variedades",Web Tv Cidade Janauba
-https://video01.brascast.com/joao5713/joao5713/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Web Tv Escriba do Amapá" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c7c2b64597645408003c7ad408e23931.webp" group-title="Variedades",Web Tv Escriba do Amapá
 https://stmv1.voxtvhd.com.br/paulo2564/paulo2564/playlist.m3u8

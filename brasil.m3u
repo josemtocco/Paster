@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-06 19:17:09 UTC
+# Gerado em 2026-11-07 05:43:26 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 444
+# Total de canais: 440
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -522,12 +522,6 @@ https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Educadora Batatais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/169f1167544b925fd0adc8562f7afd54.webp" group-title="Notícias",Tv Educadora Batatais
 https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tv Foz – Cachoeiro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9722f717373e0e1dd6219ef961e342b8.webp" group-title="Notícias",Tv Foz – Cachoeiro
-https://5cf4a2c2512a2.streamlock.net/8028/8028/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv Foz – São Mateus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d03ee32e58f49ea86105f75bf6d6bc1.webp" group-title="Notícias",Tv Foz – São Mateus
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Galega" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f646a47b2fdb3e3bbc441492cde15544.webp" group-title="Notícias",TV Galega
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 
@@ -593,9 +587,6 @@ https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Assembléia MT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40226217d9d69dba6953ac4b752d26e8.webp" group-title="Públicos",Tv Assembléia MT
 https://owncast.al.mt.gov.br/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv Assembléia RN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739315b5e91f4f7ed1b1f94147ba1369.webp" group-title="Públicos",Tv Assembléia RN
-https://video01.logicahost.com.br/assembleiarn/assembleiarn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Camara de Mogi Das Cruzes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/167fb2c4fe0c7401c3f26447702b2730.webp" group-title="Públicos",Tv Camara de Mogi Das Cruzes
 https://tv02.zas.media:1936/cmmc/cmmc/playlist.m3u8
@@ -710,9 +701,6 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Conecta Mais Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/021892b11d9126ac3ab19f643cff0760.webp" group-title="Variedades",Conecta Mais Web Tv
 https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Conectv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2680bba47d330becfa671ec27bada627.webp" group-title="Variedades",Conectv
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Creative TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8674f46e91ae306b34b9e5861d4d7a89.webp" group-title="Variedades",Creative TV
 https://v01.taaqui.org/creativetvbrasil/creativetvbrasil/playlist.m3u8

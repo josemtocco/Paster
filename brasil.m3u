@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-07 21:46:02 UTC
+# Gerado em 2026-11-08 05:43:50 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 432
+# Total de canais: 431
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -485,9 +485,6 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ribeirão Web News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ba48d84e5076cf8729af192d3cf71229.webp" group-title="Notícias",Ribeirão Web News
 https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RTV Canal 38" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7fac3844403ac236f8d09e0f3097cb79.webp" group-title="Notícias",RTV Canal 38
-https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT Interior" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d386500ebc7f1be9d49188de6f44fa5.webp" group-title="Notícias",SBT Interior
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8

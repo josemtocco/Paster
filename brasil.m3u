@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-10 14:46:18 UTC
+# Gerado em 2026-11-10 23:09:50 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 415
+# Total de canais: 411
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -101,9 +101,6 @@ https://live01-pgz.cdn.uepg.br/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82f20da9a5abfbf7420a5058a7852cab.webp" group-title="Desenhos",Anime Channel
 https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Desenhos Clássicos TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b2343886b3d164425e642250d02dd8cd.webp" group-title="Desenhos",Desenhos Clássicos TV
-https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="Desenhos",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
@@ -468,9 +465,6 @@ https://isaocorp.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Redetv Mais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c4d86e44f7e8a8d736dd477176a05faf.webp" group-title="Notícias",Redetv Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ribeirão Web News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ba48d84e5076cf8729af192d3cf71229.webp" group-title="Notícias",Ribeirão Web News
-https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SBT Interior" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d386500ebc7f1be9d49188de6f44fa5.webp" group-title="Notícias",SBT Interior
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
@@ -708,9 +702,6 @@ https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mais TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f9e5c20f4f71b3fe29622ba56a709179.webp" group-title="Variedades",Mais TV
 https://v2.cloudecast.com/maistv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/723a081912cd82d9d130eb2b9515de68.webp" group-title="Variedades",MBC
-https://cdn.mbcbrasil.tv.br/mbc_web/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="MJR TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/539a50bf16a5e19dc492427033484915.webp" group-title="Variedades",MJR TV
 https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
 
@@ -746,9 +737,6 @@ https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PUC TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2e458318cc2e59266b35a20a154990f0.webp" group-title="Variedades",PUC TV
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RCTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25f5d36062e12c2993292614f7bc26da.webp" group-title="Variedades",RCTV
-https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rede Live TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/999c52793648ce90e37a4427b221d4a7.webp" group-title="Variedades",Rede Live TV
 https://stmv1.voxtvhd.com.br/tvrlt/tvrlt/playlist.m3u8

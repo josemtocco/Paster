@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-09 15:56:38 UTC
+# Gerado em 2026-11-10 01:28:02 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 421
+# Total de canais: 420
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -59,9 +59,6 @@ https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlis
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Educação" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9555742ee550df88b88bf98f5967593c.webp" group-title="Cultura",Canal Educação
 https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=10000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal Futura" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d763ea519688a3d155d370eaa3c9892b.webp" group-title="Cultura",Canal Futura
-http://45.162.64.114/FUTURA/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cultne Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0830b63fdd557dcf3f8c22cc3010017.webp" group-title="Cultura",Cultne Tv
 https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8

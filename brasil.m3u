@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-11 05:50:06 UTC
+# Gerado em 2026-11-11 14:02:19 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 406
+# Total de canais: 403
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -80,9 +80,6 @@ https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tr
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Brasil Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b1b4e422cd08cb8c4deb0c80910b4f8c.webp" group-title="Cultura",TV Brasil Internacional
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Câmara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c4d8bebf3f0b1e71c7b59c9fa0de78e.webp" group-title="Cultura",TV Câmara
-https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Judaica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/958a6800128f0c7023fa8ba18ab5b6eb.webp" group-title="Cultura",TV Judaica
 https://br5093.streamingdevideo.com.br/tvjudaica/tvjudaica/playlist.m3u8
@@ -777,9 +774,6 @@ https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rádio Redentor DF" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f15a636f5f1dd9ab7f90459d8ee425a4.webp" group-title="Variedades",Rádio Redentor DF
 https://virtues.live:1936/redentor2/redentor2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sbt Tailândia (Tv Guarajá)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b273833114be40759348182b92d5195.webp" group-title="Variedades",Sbt Tailândia (Tv Guarajá)
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SDS de Valença" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/24614bd212a31b3f4fef35bcc6496d7f.webp" group-title="Variedades",SDS de Valença
 https://video05.logicahost.com.br/rtvsdsvalenca/rtvsdsvalenca/playlist.m3u8
 
@@ -1067,9 +1061,6 @@ https://video05.logicahost.com.br/tvpajeu/tvpajeu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Pantanal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d2475c2c97a49f21a5db5b40763d85d8.webp" group-title="Variedades",TV Pantanal
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w1595845833.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Pantanal MS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aac6a1662ba8648e493485d6dc20faaf.webp" group-title="Variedades",TV Pantanal MS
-https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Passo Fundo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b55cbd4b87030efad00a1fef55f1fe90.webp" group-title="Variedades",Tv Passo Fundo
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8

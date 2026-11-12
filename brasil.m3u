@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-11 14:02:19 UTC
+# Gerado em 2026-11-12 00:29:24 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 403
+# Total de canais: 401
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -906,9 +906,6 @@ https://video11.logicahost.com.br/tvdopovo/tvdopovo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Educadora de Limeira" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3866d27e52559d1be7c755ebbbb7beab.webp" group-title="Variedades",Tv Educadora de Limeira
 https://v-us-01.wisestream.io/memfs/025f2a20-493f-4108-ba17-999ef477e4b2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tv Erga Omnes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d0baef5986005e660747c7fe07d8bb5f.webp" group-title="Variedades",Tv Erga Omnes
-https://stmv1.srvif.com/grupoergaomnes/grupoergaomnes/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Tv Espírita Do Paraná" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b600878cd0711a5417b2e0b2162a451.webp" group-title="Variedades",Tv Espírita Do Paraná
 https://stmv.webtvninjas.com.br/rodney5548/rodney5548/playlist.m3u8
 
@@ -923,9 +920,6 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Gazeta GO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/29e36ad62ed2f52f7631ec5c5faf91a7.webp" group-title="Variedades",TV Gazeta GO
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Norte de Minas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c4eda05073e29a566c79bfb71883acf.webp" group-title="Variedades",TV Gazeta Norte de Minas
-https://6836041ea1117.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Gaúcha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bc9a603f9b942e63419626cf1f98bea.webp" group-title="Variedades",TV Gaúcha
 https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8

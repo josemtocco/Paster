@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-12 15:01:57 UTC
+# Gerado em 2026-11-12 23:29:47 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 397
+# Total de canais: 396
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -215,9 +215,6 @@ https://stmv1.voxtvhd.com.br/8000/8000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Feliz" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f333f62031ea09120c0612d302fe366c.webp" group-title="Evangélica",TV Feliz
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Gideões" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f6171c551bfebb0226b4f7d526a8e6f.webp" group-title="Evangélica",TV Gideões
-https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Maná" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9d0ffdf71124f0531b3531c7c82caf03.webp" group-title="Evangélica",Tv Maná
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-13 06:15:43 UTC
+# Gerado em 2026-11-13 19:33:14 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 396
+# Total de canais: 393
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -648,9 +648,6 @@ https://v01.taaqui.org/creativetvbrasil/creativetvbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Diário TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a562be4cb4a7cd4c7cac16bc02ef336a.webp" group-title="Variedades",Diário TV
 https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Empire" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb9514dee5d4273ab2994c512f54ee0f.webp" group-title="Variedades",Empire
-https://5c483b9d1019c.streamlock.net/empiremagazine/empiremagazine/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="FM TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b3470710001abbd0f526250561a2e03.webp" group-title="Variedades",FM TV
 https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8
 
@@ -809,9 +806,6 @@ https://video05.logicahost.com.br/tvalpha/tvalpha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Alternativa (Gazeta MA)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp" group-title="Variedades",TV Alternativa (Gazeta MA)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Altiora" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1a84cc19a0726828478ab6bfd33ea08c.webp" group-title="Variedades",TV Altiora
-https://video01.brascast.com/jonas2239/jonas2239/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Amplitude Juara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/febb91154ae6048299c025bdecc09d38.webp" group-title="Variedades",Tv Amplitude Juara
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/index.m3u8
@@ -1139,9 +1133,6 @@ https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVC 16 - Tv Cidade Petrópolis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/00bb19faeb0ea5b2ca8adcfcbaa1249c.webp" group-title="Variedades",TVC 16 - Tv Cidade Petrópolis
 https://video01.logicahost.com.br/tvc16/tvc16/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TVC Jau" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f6a708a4cc0ff47d29f12c6e37964fad.webp" group-title="Variedades",TVC Jau
-https://cdn.jmvstream.com/w/LVW-10889/LVW10889_2WEZNQGi20/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVCB Digital" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5352cb60b23156b3fd4aa080b781b2d8.webp" group-title="Variedades",TVCB Digital
 https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8

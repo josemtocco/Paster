@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-14 13:26:01 UTC
+# Gerado em 2026-11-14 22:16:57 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 389
+# Total de canais: 386
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -242,9 +242,6 @@ https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Web Tv e Radio Fonte Viva Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/050e40b4aa2bd249f7d595b14a388ca6.webp" group-title="Evangélica",Web Tv e Radio Fonte Viva Gospel
 https://stmv1.liveplushd.com.br/webtvfontevivagospel/webtvfontevivagospel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 - Tv Nova Juarez" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6040bb525a1603dc1ff55b66f733864e.webp" group-title="Filmes",Canal 2 - Tv Nova Juarez
-https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Plural" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e68afbd19480c30a542d435905e767c.webp" group-title="Filmes",Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
@@ -500,9 +497,6 @@ https://stmv1.srvif.com/tvcbrasil/tvcbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVC Pará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ab44544bd6523b400763ff37f0b3caf.webp" group-title="Notícias",TVC Pará
 https://srt01.logicahost.com.br/tvcbelem/tracks-v1/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TVV - TV Votorantim" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb19ebdc1f27f11728c1d8b14c6cf6c7.webp" group-title="Notícias",TVV - TV Votorantim
-https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVídeoNews" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/58399bd0987147a2d4380e3a8cdbee1c.webp" group-title="Notícias",TVídeoNews
 https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1992804748.m3u8
@@ -992,9 +986,6 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Nova Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/53ecbe15c0afe52f3ebfee9491a843ec.webp" group-title="Variedades",Tv Nova Familia
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv Nova Juarez" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/838a0792aa7247d0c98d2efe28dccf97.webp" group-title="Variedades",Tv Nova Juarez
-https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Nova MT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a790014839d85066f01aaf1f84daec13.webp" group-title="Variedades",Tv Nova MT
 https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8

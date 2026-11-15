@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-14 22:16:57 UTC
+# Gerado em 2026-11-15 06:02:05 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 386
+# Total de canais: 379
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -26,9 +26,6 @@ https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RedeVida Caxias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8460a2dc1d7151ae5bf9ac7041b12b0.webp" group-title="Católica",RedeVida Caxias
 https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Santa Cruz Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3a4b15c06f51dbc362a2cf204a7ce042.webp" group-title="Católica",Santa Cruz Web Tv
-https://stmv1.srvstm.com/santacruztv9906/santacruztv9906/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Aparecida" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/59185e7c084459e7a3d5d726f86aa2c7.webp" group-title="Católica",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
@@ -114,9 +111,6 @@ https://amg00627-amg00627c75-amgplt0778.playout.now3.amagi.tv/1080p-por/index.m3
 #EXTINF:-1 tvg-id="" tvg-name="TV Atividade" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/02cf30e576a21317c9d8289d61196ac5.webp" group-title="Documentários",TV Atividade
 https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Educativa MS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/34255e4a9cedfa6409ec5d3b4fb0d376.webp" group-title="Educativos",Educativa MS
-https://stream01.digilab.com.br/fertel/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Guia Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9c27e8db20ac1f7fa79f7956491a1287.webp" group-title="Educativos",Guia Tv
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 
@@ -170,9 +164,6 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Despertar Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/33dd893e09f03f2002d13b598c1d4bbc.webp" group-title="Evangélica",Despertar Tv
 https://br.conectmy.com.br/DespertarTV/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="IBMC TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/705fbfd2429a282b79ca1db2d200cf92.webp" group-title="Evangélica",IBMC TV
-https://stmv1.srvstm.com/igreja9480/igreja9480/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Igreja Evangélica Cristo Vive" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/774ab73ceb3fce042ef3790f4308c3bc.webp" group-title="Evangélica",Igreja Evangélica Cristo Vive
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/playlist.m3u8
@@ -588,9 +579,6 @@ https://americatv.com.br/proxy_stream.php?f=playlist%2Fplaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Araruna TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4d13eceb47629ad52c5517a5cbd9c57c.webp" group-title="Variedades",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Baiana TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd705388a49771ffb3b374c1f2e95274.webp" group-title="Variedades",Baiana TV
-https://StmV1.srvstm.com/radio9815/radio9815/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="BDC TV (TV Á Crítica)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/686af5ac940d65d1047605c09e3d48c2.webp" group-title="Variedades",BDC TV (TV Á Crítica)
 https://video01.brascast.com/bdctv/bdctv/playlist.m3u8
 
@@ -602,9 +590,6 @@ https://canaldez.acessaradios.com.br/canaldez/canaldez/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 21" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49ed969afb1090e69b831910bfb6b82.webp" group-title="Variedades",Canal 21
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 25 Jundiaí" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e28d110746bcf17e73214fa85ef4d04b.webp" group-title="Variedades",Canal 25 Jundiaí
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal FDR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f3bc1db62373b3d9c259311f3f31be4.webp" group-title="Variedades",Canal FDR
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
@@ -978,9 +963,6 @@ https://video10.logicahost.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Montanhesa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d365417227e8d20195abd479d4094b3a.webp" group-title="Variedades",TV Montanhesa
 https://qfm.sistemasgerais.com.br/hlsm/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Na Ativa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/28fc27c37aa31c914f6dc70ecc28fbde.webp" group-title="Variedades",TV Na Ativa
-https://webtv.naativa.org/iptv/channel/1.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV NBN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4085c5fcc451f6c960fca76df2e76f7e.webp" group-title="Variedades",TV NBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 
@@ -998,9 +980,6 @@ https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Oitava" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a8e39091da69024e5c906a68eab8d059.webp" group-title="Variedades",Tv Oitava
 https://video05.logicahost.com.br/tvoitava/tvoitava/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tv Ondas Play" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8604dd12ac3e6121259668128132f5ff.webp" group-title="Variedades",Tv Ondas Play
-https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6d3c0b09c4da55520dde4ad36c1c3b5.webp" group-title="Variedades",TV ONE
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8

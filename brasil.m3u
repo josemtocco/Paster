@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-15 22:45:12 UTC
+# Gerado em 2026-11-16 06:00:49 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 375
+# Total de canais: 372
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -194,9 +194,6 @@ https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Avivando Nações" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0579c7a5ad75d73104244131bfb40921.webp" group-title="Evangélica",Tv Avivando Nações
 https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Capital Canal Promessas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd526263166472f4465a9ad331b23858.webp" group-title="Evangélica",TV Capital Canal Promessas
-https://video01.brascast.com/gente8322/gente8322/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv El-Shadai Salvador" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4d7932f6adf83bfd214a28e8ed5c6103.webp" group-title="Evangélica",Tv El-Shadai Salvador
 https://stmv1.voxtvhd.com.br/8000/8000/playlist.m3u8
@@ -534,9 +531,6 @@ https://stmv1.srvif.com/anime/anime/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rede Manchete" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp" group-title="Seriados",Rede Manchete
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Reviva Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1da08d69331552d9dbcab51e2228c53d.webp" group-title="Seriados",Reviva Tv
-https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Seven Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fefcf3b386ea10a094e6b47296037f8f.webp" group-title="Seriados",Seven Tv
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
 
@@ -731,9 +725,6 @@ https://video05.logicahost.com.br/rtvsdsvalenca/rtvsdsvalenca/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Studio Max TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d389c440d214908e3ed4865b08e76c33.webp" group-title="Variedades",Studio Max TV
 https://video11.logicahost.com.br/tvdopovo/tvdopovo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tela Brasil Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5c2cd9d569c63b9c04151160b32aaf1a.webp" group-title="Variedades",Tela Brasil Tv
-https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Terceira Via TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d5e2f2b7429b8383b4b8cbc887bd4b1a.webp" group-title="Variedades",Terceira Via TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8

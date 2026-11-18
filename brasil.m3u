@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-17 15:53:13 UTC
+# Gerado em 2026-11-18 00:54:02 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 366
+# Total de canais: 365
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -209,9 +209,6 @@ https://StmV1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Reconcavo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6fbbf53e957d0ce55d26981cac7893d.webp" group-title="Evangélica",Tv Reconcavo
 https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Rede Gospel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf64a6c1f59709514cf0d763b6c0faa6.webp" group-title="Evangélica",TV Rede Gospel
-https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Rosa De Saron Alagoinhas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8358cee53f07e3d731a73f18e8d3479d.webp" group-title="Evangélica",Tv Rosa De Saron Alagoinhas
 https://stmv1.painelcast.com/rogerio9186/rogerio9186/playlist.m3u8

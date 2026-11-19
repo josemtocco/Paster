@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-19 00:12:47 UTC
+# Gerado em 2026-11-19 15:38:53 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 361
+# Total de canais: 360
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -17,9 +17,6 @@ https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vivax Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/db5202e859e571d99d9e896f7fd3ad45.webp" group-title="Agronegócio",Vivax Tv
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Câmara Caxias do Sul" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5171a3f47071af6908fb943eb2971d40.webp" group-title="Alta Definição",TV Câmara Caxias do Sul
-https://streaming.camaracaxias.rs.gov.br:8443/live/smil:multibitrate.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Paróquia São João Batista" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f5e3eac18138050a077ec0df2b7e80b3.webp" group-title="Católica",Paróquia São João Batista
 https://5cf4a2c2512a2.streamlock.net/sjbcampinas/sjbcampinas/playlist.m3u8

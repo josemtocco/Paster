@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-20 15:18:13 UTC
+# Gerado em 2026-11-20 23:57:24 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 359
+# Total de canais: 358
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -593,9 +593,6 @@ https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FM TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b3470710001abbd0f526250561a2e03.webp" group-title="Variedades",FM TV
 https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Foz Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d3e46253b41c7f5e76f31ca2444ac516.webp" group-title="Variedades",Foz Tv
-https://videostreamingserver.septecloud.com.br/memfs/6154fa08-b4c2-4e8f-aba8-1c5a38399d47.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gen Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6120ba569efe5fe7118f81566b35d4f.webp" group-title="Variedades",Gen Tv
 https://video01.brascast.com/gen3348/gen3348/playlist.m3u8

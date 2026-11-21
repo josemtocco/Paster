@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-20 23:57:24 UTC
+# Gerado em 2026-11-21 06:50:24 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 358
+# Total de canais: 357
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -707,9 +707,6 @@ https://video11.logicahost.com.br/tvdopovo/tvdopovo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Terceira Via TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d5e2f2b7429b8383b4b8cbc887bd4b1a.webp" group-title="Variedades",Terceira Via TV
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Terê Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b412af69bbba36276c16d7e3e44ba43d.webp" group-title="Variedades",Terê Tv
-https://video02.logicahost.com.br/canal11teretv/canal11teretv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TOP TV ON" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a5b0f6dc1764428e8e15280341a32663.webp" group-title="Variedades",TOP TV ON
 https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8

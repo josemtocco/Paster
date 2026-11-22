@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-21 19:02:39 UTC
+# Gerado em 2026-11-22 06:20:27 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 353
+# Total de canais: 349
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -26,9 +26,6 @@ https://srv3.zcast.com.br/vidacaxias/vidacaxias/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Aparecida" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/59185e7c084459e7a3d5d726f86aa2c7.webp" group-title="Católica",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Imaculada Conceição" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e69a7da0c2334100438e5c3c520e7a0e.webp" group-title="Católica",TV Imaculada Conceição
-https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbcbd850001e26fc5a8e03f879749644.webp" group-title="Católica",TV Pai Eterno
 https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
@@ -312,9 +309,6 @@ https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dee1243c933082ee25e309ab91b54f4d.webp" group-title="Filmes",TV NBT
 https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tv Osório News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/775a242222180d70569e85de9f007687.webp" group-title="Filmes",Tv Osório News
-https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Teen Net" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1516ed8bc7c4e6c7586e26b97a4d0a02.webp" group-title="Filmes",TV Teen Net
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
@@ -413,9 +407,6 @@ https://isaocorp.cloudecast.com/redemeio/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Redetv Mais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c4d86e44f7e8a8d736dd477176a05faf.webp" group-title="Notícias",Redetv Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SBT Interior" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d386500ebc7f1be9d49188de6f44fa5.webp" group-title="Notícias",SBT Interior
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc174cca08ed6deddcd11082f0834a5a.webp" group-title="Notícias",SBT News
 https://sbtnews.maissbt.com/3.m3u8
@@ -788,9 +779,6 @@ https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Curuça" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/beaa1d89838a77d51155ce6b0b6b4f47.webp" group-title="Variedades",TV Curuça
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV da Cidade Joinville" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87a0c97a33fb00caf61c6a5e293c3c10.webp" group-title="Variedades",TV da Cidade Joinville
-https://cdn.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV das Artes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/266f4b3859b4567a2a1e29e43ec23b72.webp" group-title="Variedades",TV das Artes
 https://stmv7.samcast.com.br/luca8510/luca8510/playlist.m3u8

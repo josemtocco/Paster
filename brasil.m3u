@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-22 19:26:27 UTC
+# Gerado em 2026-11-23 07:10:35 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 349
+# Total de canais: 347
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -332,9 +332,6 @@ https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Gospel Music Television" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="Música",Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Kpop TV Play" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="Música",Kpop TV Play
-https://cloud.tvomix.com/KPOPMIX/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Party Tyme Karaokê" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/666f6b375ca15f01e683ec5762e14717.webp" group-title="Música",Party Tyme Karaokê
 https://cfvod.kaltura.com/hlsm/p/513551/sp/51355100/serveFlavor/entryId/1_16m455jg/v/1/pv/1/ev/8/flavorId/1_vaq733ij/name/a.mp4/index.m3u8
@@ -845,9 +842,6 @@ https://stmv1.srvif.com/washington/washington/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Litoral" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc29e0a6c8e3f568c1d0f298decd60d7.webp" group-title="Variedades",TV Litoral
 https://srv2.tvmais.net.br/hls/tvlitoral/1_0/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Maceió" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0edf87b396c630b8f4ed8f400ffc467c.webp" group-title="Variedades",TV Maceió
-https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Mais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99952bc10e0b9a0eeb6f47cbf054a87e.webp" group-title="Variedades",Tv Mais
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8

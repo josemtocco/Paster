@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-24 09:35:02 UTC
+# Gerado em 2026-11-24 22:18:08 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 330
+# Total de canais: 328
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -41,9 +41,6 @@ https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/playlist/am
 
 #EXTINF:-1 tvg-id="" tvg-name="Receitas Fast" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf58b076a0201cdc3d5e3d1212292ae7.webp" group-title="Culinária",Receitas Fast
 https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Tastemade" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25a82c8a4f53b8e2d1dc93db14ba8ee9.webp" group-title="Culinária",Tastemade
-https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal Educação" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9555742ee550df88b88bf98f5967593c.webp" group-title="Cultura",Canal Educação
 https://canaleducacao-stream.ebc.com.br/EDUCACAO-avc1_1800000=10000.m3u8
@@ -662,9 +659,6 @@ https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tribuna Regional Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bbcb82ee8d099a445d3721fdce02c6c.webp" group-title="Variedades",Tribuna Regional Web Tv
 https://stmv7.samcast.com.br/fabiorogerio2745/fabiorogerio2745/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Três Passos TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2d93ad074c1ab20a48d477542c9932ad.webp" group-title="Variedades",Três Passos TV
-https://cdn.live.br1.jmvstream.com/webtv/trespassostv/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV A Crítica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/069153afeabc056a84104f0902ae19e1.webp" group-title="Variedades",TV A Crítica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8

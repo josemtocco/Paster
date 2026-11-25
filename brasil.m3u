@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-25 08:06:23 UTC
+# Gerado em 2026-11-25 21:32:35 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 327
+# Total de canais: 324
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -555,9 +555,6 @@ https://stmv1.srvif.com/lavrastv/lavrastv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Livre TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a80e62c4aee6444ca7551dc6ebc79ad2.webp" group-title="Variedades",Livre TV
 https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Líder FM Ubá" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d2cd7e1152bb5fd0dbb58d7de193b613.webp" group-title="Variedades",Líder FM Ubá
-https://lideruba.brasilstream.com.br/hls/lideruba/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Mais TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f9e5c20f4f71b3fe29622ba56a709179.webp" group-title="Variedades",Mais TV
 https://v2.cloudecast.com/maistv/index.m3u8
 
@@ -672,9 +669,6 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15327/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tv Alpha" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c6961a6067a40a40a23aa8689840c0e.webp" group-title="Variedades",Tv Alpha
 https://video05.logicahost.com.br/tvalpha/tvalpha/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Alternativa (Gazeta MA)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b06045459e9dd13f6615af8f1c755002.webp" group-title="Variedades",TV Alternativa (Gazeta MA)
-https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Tv Amplitude Juara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/febb91154ae6048299c025bdecc09d38.webp" group-title="Variedades",Tv Amplitude Juara
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/index.m3u8
 
@@ -773,9 +767,6 @@ https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Guarulhos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6def3a6fb419b01e142b1cc710fd0886.webp" group-title="Variedades",TV Guarulhos
 https://br5093.streamingdevideo.com.br/tvguarulhos/tvguarulhos/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Guará Caxias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c10b00820997693258dee2e3563b22c.webp" group-title="Variedades",TV Guará Caxias
-https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Tv Hortolândia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/027a83608c52be4d2bc39aa74a7c5edc.webp" group-title="Variedades",Tv Hortolândia
 https://s1.tvr.ovh/video83070/video83070/playlist.m3u8

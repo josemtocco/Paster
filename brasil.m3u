@@ -1,7 +1,7 @@
 #EXTM3U
-# Gerado em 2026-11-26 21:20:28 UTC
+# Gerado em 2026-11-27 07:57:45 UTC
 # Fonte: https://www.cxtv.com.br/tv/paises/tvs-brasil
-# Total de canais: 320
+# Total de canais: 319
 
 #EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3874d4ea2e212185309154536b53554.webp" group-title="Agronegócio",Brasil Rural TV
 https://video11.logicahost.com.br/brtvmax/brtvmax/playlist.m3u8
@@ -104,9 +104,6 @@ https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Guia Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9c27e8db20ac1f7fa79f7956491a1287.webp" group-title="Educativos",Guia Tv
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Andradas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/848620a8501524bae8e9b694017395d3.webp" group-title="Educativos",TV Andradas
-https://spectra.axonglobal.io/start/ax_antv_o8ja/llhls.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Aperipê (Cultura SE)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8034fe53848334e1612e171ad08910d.webp" group-title="Educativos",TV Aperipê (Cultura SE)
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
